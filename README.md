@@ -123,4 +123,4 @@ Three.js (MIT, `js/vendor/THREE-LICENSE.txt`), Inter ve Space Grotesk (SIL OFL, 
 
 ---
 
-Credit: **Codza**
+
