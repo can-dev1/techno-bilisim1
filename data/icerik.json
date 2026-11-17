@@ -1,0 +1,1233 @@
+{
+ "hero": {
+  "baslik": "TECHNO BİLİŞİM",
+  "alt": "Kafkas Üniversitesi Yönetim Bilişim Sistemleri Kulübü",
+  "dugme": "BİZE ULAŞIN",
+  "video": {
+   "genis": "media/video/giris-1080.mp4",
+   "dar": "media/video/giris-720.mp4"
+  },
+  "poster": {
+   "genis": "media/poster/giris-1920.webp",
+   "dar": "media/poster/giris-960.webp"
+  }
+ },
+ "hakkimizda": {
+  "baslik": "Hakkımızda",
+  "paragraflar": [
+   "Techno Bilişim, Kafkas Üniversitesi İktisadi ve İdari Bilimler Fakültesi Yönetim Bilişim Sistemleri öğrencilerinin bir araya geldiği bir öğrenci kulübüdür. Teknolojiye duyduğumuz merakı birlikte öğrenmeye, üretmeye ve deneyim paylaşmaya dönüştürmek için çalışıyoruz.",
+   "Atölyelerimizde ve eğitimlerimizde derslerde edindiğimiz bilgileri uygulamayla buluşturuyor; yapay zekâ, siber güvenlik, robotik kodlama ve üç boyutlu baskı gibi alanları keşfediyoruz. Teknik gezilerle üretim ve çalışma ortamlarını yerinde tanıyor, kariyer buluşmalarıyla mesleki yolculuğumuza farklı bakış açıları katıyoruz.",
+   "Kulüp yaşamını yalnızca teknik çalışmalarla sınırlamıyoruz. Tanışma buluşmaları, turnuvalar ve sosyal etkinliklerle öğrenciler arasındaki iletişimi güçlendiriyoruz. Sosyal sorumluluk çalışmalarında ise bilgimizi ve emeğimizi çevremizle paylaşmaya, üniversite ile yaşadığımız şehir arasında bağ kurmaya önem veriyoruz.",
+   "Yeni bir şey öğrenmek, bir fikri birlikte geliştirmek ya da etkinliklerin hazırlanmasına katkı sunmak istiyorsan sen de aramıza katılabilirsin. Bizim için kulüp, herkesin katkısıyla gelişen ortak bir öğrenme alanı."
+  ],
+  "baglantilar": []
+ },
+ "kamera": {
+  "baslik": "Kulüp kamerası",
+  "videolar": [
+   {
+    "id": "fidanlara-can-suyu",
+    "baslik": "Fidanlara can suyu",
+    "aciklama": "Fidanları toprakla buluşturup ilk can suyunu veriyoruz.",
+    "poster": "media/poster/fidanlara-can-suyu.webp",
+    "kaynak": "media/video/fidanlara-can-suyu.mp4",
+    "sesli": true
+   },
+   {
+    "id": "kulup-etkinlik",
+    "baslik": "Kars’tan",
+    "aciklama": "Kulüp kamerasından kısa bir kesit.",
+    "poster": "media/poster/kulup-etkinlik.webp",
+    "kaynak": "media/video/kulup-etkinlik.mp4",
+    "sesli": true
+   },
+   {
+    "id": "tanisma-vol-2",
+    "baslik": "Tanışma buluşması · VOL. 2",
+    "aciklama": "Bol kahkaha, bol sohbet; tanıştık, kaynaştık!",
+    "poster": "media/poster/tanisma-vol-2.webp",
+    "kaynak": "media/video/tanisma-vol-2.mp4",
+    "sesli": true
+   },
+   {
+    "id": "etkinlik",
+    "baslik": "Bilardo turnuvası",
+    "aciklama": "",
+    "poster": "media/poster/etkinlik.webp",
+    "kaynak": "media/video/etkinlik.mp4",
+    "sesli": false
+   },
+   {
+    "id": "kampus",
+    "baslik": "Tanışma buluşması · VOL. 1",
+    "aciklama": "",
+    "poster": "media/poster/kampus.webp",
+    "kaynak": "media/video/kampus.mp4",
+    "sesli": false
+   },
+   {
+    "id": "yesil-gelecek",
+    "baslik": "Yeşil bir gelecek",
+    "aciklama": "",
+    "poster": "media/poster/yesil-gelecek.webp",
+    "kaynak": "media/video/yesil-gelecek.mp4",
+    "sesli": false
+   }
+  ]
+ },
+ "faaliyet": {
+  "baslik": "2025–2026 Faaliyet Arşivi",
+  "filtreler": [
+   "Tümü",
+   "Zirve",
+   "Teknoloji",
+   "Kampüs",
+   "Kariyer",
+   "Sosyal sorumluluk"
+  ],
+  "kayitlar": [
+   {
+    "kategori": "Teknoloji",
+    "ust": "01 · 14.03.2025",
+    "baslik": "3D Baskı Eğitimi",
+    "alanlar": {
+     "Kitle": "Bölüm ve ilgili öğrenciler",
+     "Amaç": "3D tasarım ve prototipleme temellerini öğretmek.",
+     "Uygulama": "Yazıcı kalibrasyonu, dilimleme yazılımı anlatımı ve örnek model baskısı yapıldı.",
+     "Çıktı": "Katılımcılar uygulamalı 3D baskı deneyimi kazandı; ileri düzey atölye talebi alındı."
+    }
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "02 · 10–14.05.2025",
+    "baslik": "ÜNİDES Ankara Teknik Gezi",
+    "alanlar": {
+     "Kitle": "Kulüp üyesi öğrenciler",
+     "Amaç": "Ankara'daki teknoloji ve kamu kurumlarını yerinde incelemek.",
+     "Uygulama": "ÜNİDES projesi kapsamında kurum ziyaretleri ve sektör söyleşileri gerçekleştirildi.",
+     "Çıktı": "Sektörel işleyiş yerinde gözlemlendi, kariyer farkındalığı artırıldı."
+    }
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "03 · 27.05.2025",
+    "baslik": "Teknolojiye Adım Atma Etkinliği",
+    "alanlar": {
+     "Kitle": "Üniversite öğrencileri",
+     "Amaç": "Bilişim alanlarına yeni başlayan öğrencilere temel yol haritası sunmak.",
+     "Uygulama": "Teknoloji alt disiplinleri tanıtıldı, soru-cevap oturumu düzenlendi.",
+     "Çıktı": "Proje çalışma gruplarına yeni üye katılımı sağlandı."
+    }
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "04 · 04.06.2025",
+    "baslik": "ÜNİDES Robotik Kodlama Yarışması",
+    "alanlar": {
+     "Kitle": "Yarışmacı öğrenci takımları",
+     "Amaç": "Algoritmik düşünme ve donanım programlama becerilerini geliştirmek.",
+     "Uygulama": "Görev parkuru kurularak takımların robotik prototipleri yarıştırıldı.",
+     "Çıktı": "Prototipler sergilendi, Teknofest ekiplerine temel oluşturuldu."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-08",
+      "kucuk": "media/foto/kulup-arsiv-08-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-08-1280.webp",
+      "w": 1200,
+      "h": 1600,
+      "alt": "ÜNİDES Robotik Kodlama Yarışması fotoğrafı 1"
+     }
+    ]
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "05 · 17–21.09.2025",
+    "baslik": "Teknofest 2025 Katılımı",
+    "alanlar": {
+     "Kitle": "Kulüp proje ekibi",
+     "Amaç": "Geliştirilen projeleri ulusal platformda sunmak ve test etmek.",
+     "Uygulama": "Yarışma alanında teknik sunumlar ve jüri demoları gerçekleştirildi.",
+     "Çıktı": "Ulusal yarışma deneyimi kazanıldı; iyileştirme alanları belirlendi."
+    }
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "06 · 25.09.2025",
+    "baslik": "1. Sınıflara Oryantasyon",
+    "alanlar": {
+     "Kitle": "1. sınıf öğrencileri",
+     "Amaç": "Yeni öğrencilerin üniversiteye ve kulüp faaliyetlerine uyumunu sağlamak.",
+     "Uygulama": "Ders işleyişi, sınav sistemi ve kulüp komisyonları tanıtıldı.",
+     "Çıktı": "Bölüm özelinde rehberlik talebi alındı ve 2026 programına yansıtıldı."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-12",
+      "kucuk": "media/foto/kulup-arsiv-12-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-12-1280.webp",
+      "w": 1440,
+      "h": 1440,
+      "alt": "1. Sınıflara Oryantasyon fotoğrafı 1"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "07 · 03.10.2025",
+    "baslik": "Ani Gezisi",
+    "alanlar": {
+     "Kitle": "Kulüp üyesi öğrenciler",
+     "Amaç": "Şehrin tarihi mirasını tanıtmak ve üyeler arası kaynaşmayı artırmak.",
+     "Uygulama": "Ani Ören Yeri'ne kulüp koordinasyonunda kültürel gezi düzenlendi.",
+     "Çıktı": "İletişim ve kulüp aidiyeti güçlendi."
+    }
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "08 · 10.10.2025",
+    "baslik": "Çiğ Köfte Partisi",
+    "alanlar": {
+     "Kitle": "Bölüm ve kulüp öğrencileri",
+     "Amaç": "Dönem başında samimi bir sosyal tanışma ortamı oluşturmak.",
+     "Uygulama": "İkram eşliğinde tanışma buluşması ve dönem etkinlik bilgilendirmesi yapıldı.",
+     "Çıktı": "Farklı sınıflardan öğrencilerin kaynaşması sağlandı."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-07",
+      "kucuk": "media/foto/kulup-arsiv-07-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-07-1280.webp",
+      "w": 1280,
+      "h": 1600,
+      "alt": "Çiğ Köfte Partisi fotoğrafı 1"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "09 · 13.10.2025",
+    "baslik": "Stant Haftası",
+    "alanlar": {
+     "Kitle": "Tüm üniversite öğrencileri",
+     "Amaç": "Kulübün projelerini ve etkinlik takvimini kampüs geneline tanıtmak.",
+     "Uygulama": "Tanıtım materyalleriyle yüz yüze bilgilendirme ve üye kaydı yapıldı.",
+     "Çıktı": "Yeni üye kayıtları alınarak kulüp ağı genişletildi."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-10",
+      "kucuk": "media/foto/kulup-arsiv-10-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-10-1280.webp",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Stant Haftası fotoğrafı 1"
+     }
+    ]
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "10 · 24.10.2025",
+    "baslik": "Siber Farkındalık ve Güvenlik Eğitimi",
+    "alanlar": {
+     "Kitle": "Tüm üniversite öğrencileri",
+     "Amaç": "Dijital güvenlik ve siber tehditlerden korunma bilinci kazandırmak.",
+     "Uygulama": "Oltalama saldırıları, parola güvenliği ve veri mahremiyeti anlatıldı.",
+     "Çıktı": "Günlük dijital güvenlik farkındalığı artırıldı."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-06",
+      "kucuk": "media/foto/kulup-arsiv-06-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-06-1280.webp",
+      "w": 1278,
+      "h": 1600,
+      "alt": "Siber Farkındalık ve Güvenlik Eğitimi fotoğrafı 1"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "11 · 31.10.2025",
+    "baslik": "Vize Sonrası Konser",
+    "alanlar": {
+     "Kitle": "Tüm üniversite öğrencileri",
+     "Amaç": "Sınav dönemi sonrasında sosyal ve kültürel dinlenme sağlamak.",
+     "Uygulama": "Öğrenci müzik gruplarının katılımıyla canlı müzik etkinliği düzenlendi.",
+     "Çıktı": "Kampüs içi sosyal etkileşim güçlendi."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-05",
+      "kucuk": "media/foto/kulup-arsiv-05-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-05-1280.webp",
+      "w": 1170,
+      "h": 1464,
+      "alt": "Vize Sonrası Konser fotoğrafı 1"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "12 · 03.11.2025",
+    "baslik": "Bilardo Turnuvası (2025)",
+    "alanlar": {
+     "Kitle": "Üniversite öğrencileri",
+     "Amaç": "Sportmenlik ve sosyal etkileşimi desteklemek.",
+     "Uygulama": "Eleme usulü fikstür oluşturularak müsabakalar tamamlandı.",
+     "Çıktı": "Yoğun ilgi nedeniyle 2026 turnuvasının iki güne yayılması kararı alındı."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-02",
+      "kucuk": "media/foto/kulup-arsiv-02-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-02-1280.webp",
+      "w": 1184,
+      "h": 1568,
+      "alt": "Bilardo Turnuvası (2025) fotoğrafı 1"
+     },
+     {
+      "ad": "kulup-arsiv-09",
+      "kucuk": "media/foto/kulup-arsiv-09-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-09-1280.webp",
+      "w": 1170,
+      "h": 878,
+      "alt": "Bilardo Turnuvası (2025) fotoğrafı 2"
+     }
+    ]
+   },
+   {
+    "kategori": "Kariyer",
+    "ust": "13 · 30.11.2025",
+    "baslik": "İngilizce Kursu",
+    "alanlar": {
+     "Kitle": "Kulüp üyesi öğrenciler",
+     "Amaç": "Teknik literatür ve iletişim için yabancı dil pratiği kazandırmak.",
+     "Uygulama": "Konuşma kulübü ve temel mesleki terimler üzerine pratik oturumlar yapıldı.",
+     "Çıktı": "Yabancı dil konuşma ve teknik kaynak okuma özgüveni desteklendi."
+    }
+   },
+   {
+    "kategori": "Zirve",
+    "ust": "14 · 22.12.2025",
+    "baslik": "AI WINTER'25 Kış Yapay Zekâ Zirvesi",
+    "alanlar": {
+     "Kitle": "Tüm üniversite öğrencileri ve akademisyenler",
+     "Amaç": "Yapay zekâ alanındaki güncel gelişmeleri aktarmak.",
+     "Uygulama": "Çok oturumlu sunumlar, panel ve soru-cevap bölümleri gerçekleştirildi.",
+     "Çıktı": "Geniş katılımlı bilimsel etkinlik tamamlandı, yeni proje fikirleri oluştu."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-04",
+      "kucuk": "media/foto/kulup-arsiv-04-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-04-1280.webp",
+      "w": 1278,
+      "h": 1600,
+      "alt": "AI WINTER'25 Kış Yapay Zekâ Zirvesi fotoğrafı 1"
+     },
+     {
+      "ad": "kulup-arsiv-11",
+      "kucuk": "media/foto/kulup-arsiv-11-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-11-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "AI WINTER'25 Kış Yapay Zekâ Zirvesi fotoğrafı 2"
+     }
+    ]
+   },
+   {
+    "kategori": "Kariyer",
+    "ust": "15 · 29–30.04.2026",
+    "baslik": "KUDAAKAF 2026 Katılımı",
+    "alanlar": {
+     "Kitle": "Kulüp üyeleri ve bölüm öğrencileri",
+     "Amaç": "Kamu ve özel sektör temsilcileriyle buluşmak.",
+     "Uygulama": "Firma stantları ziyaret edildi, staj ve iş başvuruları için görüşmeler yapıldı.",
+     "Çıktı": "Öğrenciler özgeçmişlerini doğrudan insan kaynaklarına iletti."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-13",
+      "kucuk": "media/foto/kulup-arsiv-13-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-13-1280.webp",
+      "w": 1170,
+      "h": 1170,
+      "alt": "KUDAAKAF 2026 Katılımı fotoğrafı 1"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "16 · 30.09.2026",
+    "baslik": "YBS 1. Sınıflar Oryantasyon",
+    "alanlar": {
+     "Kitle": "YBS 1. sınıf öğrencileri",
+     "Amaç": "YBS bölümüne başlayan öğrencilere rehberlik etmek.",
+     "Uygulama": "Müfredat ve staj süreçleri anlatıldı.",
+     "Çıktı": "Yeni öğrencilerin bölüme uyumu hızlandı."
+    }
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "17 · 04.10.2026",
+    "baslik": "Tanışma Etkinliği",
+    "alanlar": {
+     "Kitle": "Yeni ve mevcut kulüp üyeleri",
+     "Amaç": "Yeni üyelerle yönetim ekibini bir araya getirmek.",
+     "Uygulama": "Çalışma komisyonları tanıtıldı, dönem takvimi paylaşıldı.",
+     "Çıktı": "Komisyonlarda görev alacak aktif üye dağılımı oluşturuldu."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-03",
+      "kucuk": "media/foto/kulup-arsiv-03-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-03-1280.webp",
+      "w": 1024,
+      "h": 1360,
+      "alt": "Tanışma Etkinliği fotoğrafı 1"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "18 · 08–09.10.2026",
+    "baslik": "Kulüp Tanıtım Standı",
+    "alanlar": {
+     "Kitle": "Tüm üniversite öğrencileri",
+     "Amaç": "Kulüp faaliyetlerini tanıtarak yeni üye kazanmak.",
+     "Uygulama": "Afiş ve proje tanıtımları yapılarak kayıt alındı.",
+     "Çıktı": "Kulüp üye tabanı ve duyuru ağı genişletildi."
+    }
+   },
+   {
+    "kategori": "Sosyal sorumluluk",
+    "ust": "19 · 18.10.2026",
+    "baslik": "Deneyap Öğrencilerine Gönüllü Mentorluk",
+    "alanlar": {
+     "Kitle": "Deneyap öğrencileri ve gönüllü üyeler",
+     "Amaç": "Genç öğrencilere teknoloji mentorluğu sunmak.",
+     "Uygulama": "Proje geliştirme, algoritma ve sunum hazırlığı konularında rehberlik edildi.",
+     "Çıktı": "Üniversite-toplum iş birliği somutlaştırıldı."
+    }
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "20 · 19–20.10.2026",
+    "baslik": "Bilardo Turnuvası (2026)",
+    "alanlar": {
+     "Kitle": "Üniversite öğrencileri",
+     "Amaç": "Daha geniş katılımlı spor etkinliği düzenlemek.",
+     "Uygulama": "İki güne yayılan fikstürle müsabakalar gerçekleştirildi.",
+     "Çıktı": "Katılım ve öğrenci memnuniyeti arttı."
+    },
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-02",
+      "kucuk": "media/foto/kulup-arsiv-02-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-02-1280.webp",
+      "w": 1184,
+      "h": 1568,
+      "alt": "Bilardo Turnuvası (2026) fotoğrafı 1"
+     },
+     {
+      "ad": "kulup-arsiv-09",
+      "kucuk": "media/foto/kulup-arsiv-09-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-09-1280.webp",
+      "w": 1170,
+      "h": 878,
+      "alt": "Bilardo Turnuvası (2026) fotoğrafı 2"
+     }
+    ]
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "21 · 21.10.2026",
+    "baslik": "Siberay Etkinliği",
+    "alanlar": {
+     "Kitle": "Tüm üniversite öğrencileri",
+     "Amaç": "Güvenli internet ve siber güvenlik bilinci yaymak.",
+     "Uygulama": "Uzman sunumları ve bilgilendirme broşürleriyle siber suçlardan korunma anlatıldı.",
+     "Çıktı": "Dijital okuryazarlık farkındalığı güçlendirildi."
+    }
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "22 · 25.10.2026",
+    "baslik": "Tanışma Etkinliği 2",
+    "alanlar": {
+     "Kitle": "Yeni katılan kulüp üyeleri",
+     "Amaç": "Sonradan kayıt olan üyeleri ekibe dahil etmek.",
+     "Uygulama": "Kulüp işleyişi özetlendi, üyeler proje ve organizasyon ekiplerine yerleştirildi.",
+     "Çıktı": "Yeni üyelerin sürece tam entegrasyonu sağlandı."
+    }
+   },
+   {
+    "kategori": "Sosyal sorumluluk",
+    "ust": "23 · 03.11.2026",
+    "baslik": "Fidan Dikme Etkinliği",
+    "alanlar": {
+     "Kitle": "Kulüp üyeleri ve gönüllü öğrenciler",
+     "Amaç": "Çevre bilincini eyleme dönüştürmek.",
+     "Uygulama": "Ağaçlandırma alanında gönüllü öğrencilerle fidan dikimi yapıldı.",
+     "Çıktı": "Sosyal sorumluluk ve çevresel katkı misyonu somutlaştırıldı."
+    }
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "24 · 15.11.2026",
+    "baslik": "Sinema Etkinliği",
+    "alanlar": {
+     "Kitle": "Kulüp üyeleri ve öğrenciler",
+     "Amaç": "Kültürel paylaşım ve sosyalleşme ortamı sunmak.",
+     "Uygulama": "Film gösterimi ve kısa değerlendirme sohbeti gerçekleştirildi.",
+     "Çıktı": "Öğrenci motivasyonu ve kulüp içi dayanışma desteklendi."
+    }
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "Ek görseller",
+    "baslik": "Faaliyet arşivinden ek kareler",
+    "aciklama": "Rapor metninde tek bir faaliyete kesin olarak bağlanmayan, ancak kulüp arşivine ait ek fotoğraflar.",
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-01",
+      "kucuk": "media/foto/kulup-arsiv-01-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-01-1280.webp",
+      "w": 1024,
+      "h": 1360,
+      "alt": "Kulüp arşivinden ek fotoğraf 1"
+     },
+     {
+      "ad": "kulup-arsiv-14",
+      "kucuk": "media/foto/kulup-arsiv-14-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-14-1280.webp",
+      "w": 1080,
+      "h": 1080,
+      "alt": "Kulüp arşivinden ek fotoğraf 2"
+     },
+     {
+      "ad": "kulup-arsiv-15",
+      "kucuk": "media/foto/kulup-arsiv-15-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-15-1280.webp",
+      "w": 1170,
+      "h": 1463,
+      "alt": "Kulüp arşivinden ek fotoğraf 3"
+     },
+     {
+      "ad": "kulup-arsiv-16",
+      "kucuk": "media/foto/kulup-arsiv-16-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-16-1280.webp",
+      "w": 1170,
+      "h": 1463,
+      "alt": "Kulüp arşivinden ek fotoğraf 4"
+     },
+     {
+      "ad": "kulup-arsiv-17",
+      "kucuk": "media/foto/kulup-arsiv-17-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-17-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "Kulüp arşivinden ek fotoğraf 5"
+     },
+     {
+      "ad": "kulup-arsiv-18",
+      "kucuk": "media/foto/kulup-arsiv-18-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-18-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "Kulüp arşivinden ek fotoğraf 6"
+     },
+     {
+      "ad": "kulup-arsiv-19",
+      "kucuk": "media/foto/kulup-arsiv-19-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-19-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "Kulüp arşivinden ek fotoğraf 7"
+     },
+     {
+      "ad": "kulup-arsiv-20",
+      "kucuk": "media/foto/kulup-arsiv-20-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-20-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "Kulüp arşivinden ek fotoğraf 8"
+     },
+     {
+      "ad": "kulup-arsiv-21",
+      "kucuk": "media/foto/kulup-arsiv-21-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-21-1280.webp",
+      "w": 1280,
+      "h": 1600,
+      "alt": "Kulüp arşivinden ek fotoğraf 9"
+     }
+    ]
+   }
+  ]
+ },
+ "etkinlikArsivi": {
+  "baslik": "Etkinlik arşivi",
+  "kayitlar": [
+   {
+    "kategori": "Kampüs",
+    "ust": "2025–2026",
+    "baslik": "Yeni etkinlik fotoğrafları",
+    "aciklama": "Bilardo, tanışma, zirve, Vize Fest, siber güvenlik ve robotik kodlama etkinliklerinden afiş ve anı fotoğrafları.",
+    "fotograflar": [
+     {
+      "ad": "kulup-arsiv-02",
+      "kucuk": "media/foto/kulup-arsiv-02-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-02-1280.webp",
+      "w": 1184,
+      "h": 1568,
+      "alt": "Bilardo turnuvası duyuru afişi"
+     },
+     {
+      "ad": "kulup-arsiv-04",
+      "kucuk": "media/foto/kulup-arsiv-04-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-04-1280.webp",
+      "w": 1278,
+      "h": 1600,
+      "alt": "Tanışma etkinliği duyuru afişi"
+     },
+     {
+      "ad": "kulup-arsiv-05",
+      "kucuk": "media/foto/kulup-arsiv-05-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-05-1280.webp",
+      "w": 1170,
+      "h": 1464,
+      "alt": "Kış Yapay Zekâ Zirvesi afişi"
+     },
+     {
+      "ad": "kulup-arsiv-06",
+      "kucuk": "media/foto/kulup-arsiv-06-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-06-1280.webp",
+      "w": 1278,
+      "h": 1600,
+      "alt": "Techno 25 Vize Fest afişi"
+     },
+     {
+      "ad": "kulup-arsiv-07",
+      "kucuk": "media/foto/kulup-arsiv-07-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-07-1280.webp",
+      "w": 1280,
+      "h": 1600,
+      "alt": "Siber Farkındalık ve Güvenlik Eğitimi afişi"
+     },
+     {
+      "ad": "kulup-arsiv-08",
+      "kucuk": "media/foto/kulup-arsiv-08-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-08-1280.webp",
+      "w": 1200,
+      "h": 1600,
+      "alt": "Çiğ Köfte Partisi afişi"
+     },
+     {
+      "ad": "kulup-arsiv-09",
+      "kucuk": "media/foto/kulup-arsiv-09-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-09-1280.webp",
+      "w": 1170,
+      "h": 878,
+      "alt": "Robotik Kodlama Yarışması afişi"
+     },
+     {
+      "ad": "kulup-arsiv-10",
+      "kucuk": "media/foto/kulup-arsiv-10-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-10-1280.webp",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Bilardo turnuvası etkinlik fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-11",
+      "kucuk": "media/foto/kulup-arsiv-11-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-11-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "Tanışma etkinliği fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-12",
+      "kucuk": "media/foto/kulup-arsiv-12-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-12-1280.webp",
+      "w": 1440,
+      "h": 1440,
+      "alt": "Kış Yapay Zekâ Zirvesi etkinlik fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-13",
+      "kucuk": "media/foto/kulup-arsiv-13-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-13-1280.webp",
+      "w": 1170,
+      "h": 1170,
+      "alt": "Techno Bilişim Kulübü etkinlik fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-14",
+      "kucuk": "media/foto/kulup-arsiv-14-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-14-1280.webp",
+      "w": 1080,
+      "h": 1080,
+      "alt": "Techno Bilişim Kulübü etkinlik fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-15",
+      "kucuk": "media/foto/kulup-arsiv-15-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-15-1280.webp",
+      "w": 1170,
+      "h": 1463,
+      "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-16",
+      "kucuk": "media/foto/kulup-arsiv-16-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-16-1280.webp",
+      "w": 1170,
+      "h": 1463,
+      "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-17",
+      "kucuk": "media/foto/kulup-arsiv-17-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-17-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-18",
+      "kucuk": "media/foto/kulup-arsiv-18-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-18-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-19",
+      "kucuk": "media/foto/kulup-arsiv-19-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-19-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-20",
+      "kucuk": "media/foto/kulup-arsiv-20-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-20-1280.webp",
+      "w": 1279,
+      "h": 1600,
+      "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+     },
+     {
+      "ad": "kulup-arsiv-21",
+      "kucuk": "media/foto/kulup-arsiv-21-640.webp",
+      "buyuk": "media/foto/kulup-arsiv-21-1280.webp",
+      "w": 1280,
+      "h": 1600,
+      "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+     }
+    ]
+   },
+   {
+    "kategori": "Sosyal sorumluluk",
+    "ust": "",
+    "baslik": "Fidanlara can suyu",
+    "aciklama": "Fidan dikimi ve sulama çalışmasından görüntüler kulüp kamerasında.",
+    "baglantilar": [
+     {
+      "metin": "Videoyu izle ↓",
+      "url": "#fidanlara-can-suyu"
+     }
+    ]
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "",
+    "baslik": "Siber Farkındalık ve Güvenlik Eğitimi",
+    "aciklama": "Dijital dünyada güvenliği konuştuğumuz eğitimden ve katkı sunanlara teşekkür takdiminden kareler.",
+    "fotograflar": [
+     {
+      "ad": "siber-guvenlik-egitim",
+      "kucuk": "media/foto/siber-guvenlik-egitim-640.webp",
+      "buyuk": "media/foto/siber-guvenlik-egitim-1280.webp",
+      "w": 768,
+      "h": 961,
+      "alt": "Siber farkındalık eğitiminde kürsüdeki konuşmacı ve sunum"
+     },
+     {
+      "ad": "siber-guvenlik-tesekkur",
+      "kucuk": "media/foto/siber-guvenlik-tesekkur-640.webp",
+      "buyuk": "media/foto/siber-guvenlik-tesekkur-1280.webp",
+      "w": 768,
+      "h": 961,
+      "alt": "SİBERAY temsilcisine teşekkür belgesi takdimi"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "",
+    "baslik": "Bilardo Turnuvası",
+    "aciklama": "Rekabetin, eğlencenin ve dostluğun buluştuğu turnuvamızdan; masa başından kupa törenine.",
+    "fotograflar": [
+     {
+      "ad": "bilardo-turnuva",
+      "kucuk": "media/foto/bilardo-turnuva-640.webp",
+      "buyuk": "media/foto/bilardo-turnuva-1280.webp",
+      "w": 768,
+      "h": 960,
+      "alt": "Bilardo masası başında turnuva katılımcıları"
+     },
+     {
+      "ad": "bilardo-odul",
+      "kucuk": "media/foto/bilardo-odul-640.webp",
+      "buyuk": "media/foto/bilardo-odul-1280.webp",
+      "w": 768,
+      "h": 960,
+      "alt": "Bilardo turnuvasının kupa ve madalya töreni"
+     }
+    ]
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "5 Aralık · 13.30",
+    "baslik": "Kars Teknik Gezisi",
+    "aciklama": "Kars’ın üretim ve ulaşım noktalarına teknik gezi: Kars Çimento Fabrikası, Kars Harakani Havalimanı ve Kars Şeker Fabrikası.",
+    "fotograflar": [
+     {
+      "ad": "kars-teknik-gezi",
+      "kucuk": "media/foto/kars-teknik-gezi-640.webp",
+      "buyuk": "media/foto/kars-teknik-gezi-1280.webp",
+      "w": 768,
+      "h": 961,
+      "alt": "Kars Teknik Gezisi afişi: 5 Aralık Cuma, 13.30; çimento fabrikası, havalimanı ve şeker fabrikası"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "",
+    "baslik": "Tanışma buluşması · VOL. 2",
+    "aciklama": "Birlikte sohbet edip kaynaştığımız buluşmanın anıları kulüp kamerasında.",
+    "baglantilar": [
+     {
+      "metin": "Videoyu izle ↓",
+      "url": "#tanisma-vol-2"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "2026",
+    "baslik": "YBS birinci sınıf oryantasyonu",
+    "aciklama": "Kulüp, bölüme yeni başlayan öğrencilere akademik süreçleri, kampüs yaşamını ve kulüp çalışmalarına nasıl katılabileceklerini tanıttı. Üniversite haberi 9 Ekim 2026’da yayımlandı.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://www.kafkas.edu.tr/iibfybs/tr/duyuru2/Yonetim-Bilisim-Sistemleri-Bolumu-1-Sinif-ogrencilerine-Yonelik-Oryantasyon-Programi-Duzenlendi-28744"
+     }
+    ]
+   },
+   {
+    "kategori": "Zirve",
+    "ust": "2025",
+    "baslik": "Kış Yapay Zekâ Zirvesi",
+    "aciklama": "Ahmet Arslan Kültür ve Kongre Merkezi’nde siber güvenlik, eğitim ve yapay zekâ üzerine sunumlar yapıldı. Programda Dijital Dönüşüm sergisi de yer aldı.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://www.kafkas.edu.tr/belgeler/12b4ddf6-cd38-4ba4-91d5-eead73f836f1..pdf"
+     }
+    ]
+   },
+   {
+    "kategori": "Kampüs",
+    "ust": "2025",
+    "baslik": "Techno’25 Vize Fest",
+    "aciklama": "Vize haftası öncesinde öğrenciler, Ahmet Arslan Kültür ve Kongre Merkezi’nde EchnoLineBand konserinde buluştu.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://www.kafkas.edu.tr/belgeler/12b4ddf6-cd38-4ba4-91d5-eead73f836f1..pdf"
+     }
+    ]
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "2025",
+    "baslik": "TEKNOFEST",
+    "aciklama": "Yönetim Bilişim Sistemleri öğrencileri ve Techno Bilişim Kulübü, teknoloji projelerini yakından tanımak için festivale katıldı.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://kafkas.edu.tr/belgeler/39050d31-a6ef-49bb-a5bb-4150cab8d9f0.pdf"
+     }
+    ]
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "2025",
+    "baslik": "Kars Robotik Kodlama Yarışması",
+    "aciklama": "3 Haziran’da düzenlenen yarışmada kulüp üyeleri genç katılımcılara teknik destek verdi.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://kafkas.edu.tr/belgeler/39050d31-a6ef-49bb-a5bb-4150cab8d9f0.pdf"
+     }
+    ]
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "2025",
+    "baslik": "Ankara’da Techno Gezi",
+    "aciklama": "Kulübün Ankara gezisi, YBS Bölümünün 5 Haziran 2025 tarihli etkinlik kaydında yer alıyor.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://www.kafkas.edu.tr/iibfybs/tr/tumetkinlikler"
+     }
+    ]
+   },
+   {
+    "kategori": "Kariyer",
+    "ust": "2025",
+    "baslik": "Kariyer Yolculuğu",
+    "aciklama": "YBS Bölümü, kulübün kariyer buluşmasını 15 Mayıs 2025 tarihli etkinlik arşivinde duyurdu.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://www.kafkas.edu.tr/iibfybs/tr/tumetkinlikler"
+     }
+    ]
+   },
+   {
+    "kategori": "Teknoloji",
+    "ust": "2025",
+    "baslik": "Uygulamalı 3D baskı eğitimi",
+    "aciklama": "İİBF’de Cumali Güney Sabur ile üç boyutlu baskının kullanım alanlarını inceleyen katılımcılar, kendi üç boyutlu tasarımlarını hazırladı. Eğitimin proje koordinasyonunu YBS öğrencileri üstlendi.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://www.kafkas.edu.tr/iibfybs/tr/duyuru/Techno-Bilisim-Kulubunden-3D-Baski-Egitimi-26795"
+     }
+    ]
+   },
+   {
+    "kategori": "Kariyer",
+    "ust": "2025",
+    "baslik": "Erasmus+ tanıtım toplantısı",
+    "aciklama": "Kulübün Erasmus+ programını tanıttığı toplantı, YBS Bölümünün Mart 2025 arşivinde yer alıyor.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://www.kafkas.edu.tr/iibfybs/tr/tumetkinlikler"
+     }
+    ]
+   },
+   {
+    "kategori": "Zirve",
+    "ust": "2024",
+    "baslik": "Yapay Zekâ & Endüstri 5.0",
+    "aciklama": "9 Aralık’ta Ahmet Arslan Kültür ve Kongre Merkezi’nde düzenlenen zirve, yapay zekâ ve endüstrinin geleceğini gündeme taşıdı.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://www.kafkas.edu.tr/okek/tr/duyuru2/Techno-Bilisim-Kulubunden-Yapay-Zeka--Endustri-50-Zirvesi-24140"
+     }
+    ]
+   },
+   {
+    "kategori": "Sosyal sorumluluk",
+    "ust": "2024",
+    "baslik": "Bilişimden Doğaya",
+    "aciklama": "Techno Bilişim ve Damla Topluluğu, Kars’taki iki okuldan öğrencilerle kampüste buluştu. Çocuklar ve öğretmenleri 30 fidan ve 12 meyve ağacı dikti. Çevre temizliği ve kampüs gezisi de programdaydı.",
+    "baglantilar": [
+     {
+      "metin": "KAÜ kaynağı ↗",
+      "url": "https://www.kafkas.edu.tr/iibfybs/tr/duyuru/Bilisimden-Dogaya-Etkinligi-Kapsaminda--ilkokul-ve-Ortaokul-ogrencileri-Fidan-senligine-Katildi-22974"
+     }
+    ]
+   }
+  ]
+ },
+ "iletisim": [
+  {
+   "baslik": "Katılım ve iletişim",
+   "metin": "Kulübe katılmak için üyelik formuna, etkinlik duyuruları için sosyal medya hesaplarımıza ulaşabilirsin.",
+   "baglantilar": [
+    {
+     "metin": "Üyelik başvuru formu ↗",
+     "url": "https://forms.gle/x3YyKZshnqDTJHTr9"
+    }
+   ],
+   "satirlar": []
+  },
+  {
+   "baslik": "Kulüp hesapları",
+   "metin": "",
+   "baglantilar": [
+    {
+     "metin": "Instagram · @kauybs",
+     "url": "https://www.instagram.com/kauybs/"
+    },
+    {
+     "metin": "X · @technobilisim_",
+     "url": "https://x.com/technobilisim_"
+    },
+    {
+     "metin": "Kulübün bağlantı sayfası",
+     "url": "https://linktr.ee/kauybs"
+    }
+   ],
+   "satirlar": []
+  },
+  {
+   "baslik": "Üniversite kulüp kaydı",
+   "metin": "",
+   "baglantilar": [
+    {
+     "metin": "technobilisimkafkas@gmail.com",
+     "url": "mailto:technobilisimkafkas@gmail.com"
+    }
+   ],
+   "satirlar": [
+    "Akademik danışman · Dr. Öğr. Üyesi M. Akif Yenikaya",
+    "Kulüp başkanı · Ronay TANRIVERDİ"
+   ]
+  }
+ ],
+ "menu": [
+  {
+   "metin": "Hakkımızda",
+   "url": "#kulup"
+  },
+  {
+   "metin": "Etkinlikler",
+   "url": "#arsiv"
+  },
+  {
+   "metin": "İletişim",
+   "url": "#iletisim"
+  },
+  {
+   "metin": "Üyelik formu",
+   "url": "https://forms.gle/x3YyKZshnqDTJHTr9"
+  }
+ ],
+ "meta": {
+  "title": "Techno Bilişim Kulübü · Kafkas Üniversitesi",
+  "description": "Kafkas Üniversitesi Yönetim Bilişim Sistemleri öğrencilerinin kulübü Techno Bilişim: atölyeler, eğitimler, zirveler ve kampüs etkinlikleri."
+ },
+ "_not": "Yollar paketteki dosyalara göre düzenlendi. foto: kucuk=640px, buyuk=1280px, w/h orijinal oran. meta.description eskide yoktu; kulübün kendi Hakkımızda metninden kısaltıldı.",
+ "tunel": [
+  {
+   "ad": "kulup-arsiv-08",
+   "kucuk": "media/foto/kulup-arsiv-08-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-08-1280.webp",
+   "w": 1200,
+   "h": 1600,
+   "alt": "ÜNİDES Robotik Kodlama Yarışması fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-12",
+   "kucuk": "media/foto/kulup-arsiv-12-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-12-1280.webp",
+   "w": 1440,
+   "h": 1440,
+   "alt": "1. Sınıflara Oryantasyon fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-07",
+   "kucuk": "media/foto/kulup-arsiv-07-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-07-1280.webp",
+   "w": 1280,
+   "h": 1600,
+   "alt": "Çiğ Köfte Partisi fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-10",
+   "kucuk": "media/foto/kulup-arsiv-10-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-10-1280.webp",
+   "w": 1600,
+   "h": 1200,
+   "alt": "Stant Haftası fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-06",
+   "kucuk": "media/foto/kulup-arsiv-06-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-06-1280.webp",
+   "w": 1278,
+   "h": 1600,
+   "alt": "Siber Farkındalık ve Güvenlik Eğitimi fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-05",
+   "kucuk": "media/foto/kulup-arsiv-05-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-05-1280.webp",
+   "w": 1170,
+   "h": 1464,
+   "alt": "Vize Sonrası Konser fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-02",
+   "kucuk": "media/foto/kulup-arsiv-02-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-02-1280.webp",
+   "w": 1184,
+   "h": 1568,
+   "alt": "Bilardo Turnuvası (2025) fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-09",
+   "kucuk": "media/foto/kulup-arsiv-09-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-09-1280.webp",
+   "w": 1170,
+   "h": 878,
+   "alt": "Bilardo Turnuvası (2025) fotoğrafı 2"
+  },
+  {
+   "ad": "kulup-arsiv-04",
+   "kucuk": "media/foto/kulup-arsiv-04-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-04-1280.webp",
+   "w": 1278,
+   "h": 1600,
+   "alt": "AI WINTER'25 Kış Yapay Zekâ Zirvesi fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-11",
+   "kucuk": "media/foto/kulup-arsiv-11-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-11-1280.webp",
+   "w": 1279,
+   "h": 1600,
+   "alt": "AI WINTER'25 Kış Yapay Zekâ Zirvesi fotoğrafı 2"
+  },
+  {
+   "ad": "kulup-arsiv-13",
+   "kucuk": "media/foto/kulup-arsiv-13-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-13-1280.webp",
+   "w": 1170,
+   "h": 1170,
+   "alt": "KUDAAKAF 2026 Katılımı fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-03",
+   "kucuk": "media/foto/kulup-arsiv-03-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-03-1280.webp",
+   "w": 1024,
+   "h": 1360,
+   "alt": "Tanışma Etkinliği fotoğrafı 1"
+  },
+  {
+   "ad": "kulup-arsiv-14",
+   "kucuk": "media/foto/kulup-arsiv-14-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-14-1280.webp",
+   "w": 1080,
+   "h": 1080,
+   "alt": "Techno Bilişim Kulübü etkinlik fotoğrafı"
+  },
+  {
+   "ad": "kulup-arsiv-15",
+   "kucuk": "media/foto/kulup-arsiv-15-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-15-1280.webp",
+   "w": 1170,
+   "h": 1463,
+   "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+  },
+  {
+   "ad": "kulup-arsiv-16",
+   "kucuk": "media/foto/kulup-arsiv-16-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-16-1280.webp",
+   "w": 1170,
+   "h": 1463,
+   "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+  },
+  {
+   "ad": "kulup-arsiv-17",
+   "kucuk": "media/foto/kulup-arsiv-17-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-17-1280.webp",
+   "w": 1279,
+   "h": 1600,
+   "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+  },
+  {
+   "ad": "kulup-arsiv-18",
+   "kucuk": "media/foto/kulup-arsiv-18-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-18-1280.webp",
+   "w": 1279,
+   "h": 1600,
+   "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+  },
+  {
+   "ad": "kulup-arsiv-19",
+   "kucuk": "media/foto/kulup-arsiv-19-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-19-1280.webp",
+   "w": 1279,
+   "h": 1600,
+   "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+  },
+  {
+   "ad": "kulup-arsiv-20",
+   "kucuk": "media/foto/kulup-arsiv-20-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-20-1280.webp",
+   "w": 1279,
+   "h": 1600,
+   "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+  },
+  {
+   "ad": "kulup-arsiv-21",
+   "kucuk": "media/foto/kulup-arsiv-21-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-21-1280.webp",
+   "w": 1280,
+   "h": 1600,
+   "alt": "Techno Bilişim Kulübü arşiv fotoğrafı"
+  },
+  {
+   "ad": "siber-guvenlik-egitim",
+   "kucuk": "media/foto/siber-guvenlik-egitim-640.webp",
+   "buyuk": "media/foto/siber-guvenlik-egitim-1280.webp",
+   "w": 768,
+   "h": 961,
+   "alt": "Siber farkındalık eğitiminde kürsüdeki konuşmacı ve sunum"
+  },
+  {
+   "ad": "siber-guvenlik-tesekkur",
+   "kucuk": "media/foto/siber-guvenlik-tesekkur-640.webp",
+   "buyuk": "media/foto/siber-guvenlik-tesekkur-1280.webp",
+   "w": 768,
+   "h": 961,
+   "alt": "SİBERAY temsilcisine teşekkür belgesi takdimi"
+  },
+  {
+   "ad": "bilardo-turnuva",
+   "kucuk": "media/foto/bilardo-turnuva-640.webp",
+   "buyuk": "media/foto/bilardo-turnuva-1280.webp",
+   "w": 768,
+   "h": 960,
+   "alt": "Bilardo masası başında turnuva katılımcıları"
+  },
+  {
+   "ad": "bilardo-odul",
+   "kucuk": "media/foto/bilardo-odul-640.webp",
+   "buyuk": "media/foto/bilardo-odul-1280.webp",
+   "w": 768,
+   "h": 960,
+   "alt": "Bilardo turnuvasının kupa ve madalya töreni"
+  },
+  {
+   "ad": "kars-teknik-gezi",
+   "kucuk": "media/foto/kars-teknik-gezi-640.webp",
+   "buyuk": "media/foto/kars-teknik-gezi-1280.webp",
+   "w": 768,
+   "h": 961,
+   "alt": "Kars Teknik Gezisi afişi: 5 Aralık Cuma, 13.30; çimento fabrikası, havalimanı ve şeker fabrikası"
+  },
+  {
+   "ad": "kulup-arsiv-01",
+   "kucuk": "media/foto/kulup-arsiv-01-640.webp",
+   "buyuk": "media/foto/kulup-arsiv-01-1280.webp",
+   "w": 1024,
+   "h": 1360,
+   "alt": "Kulüp arşivinden ek fotoğraf 1"
+  }
+ ]
+}

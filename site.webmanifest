@@ -1,0 +1,13 @@
+{
+  "name": "Techno Bilişim Kulübü · Kafkas Üniversitesi",
+  "short_name": "Techno Bilişim",
+  "lang": "tr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06101D",
+  "theme_color": "#06101D",
+  "icons": [
+    { "src": "media/logo-256.webp", "sizes": "256x256", "type": "image/webp" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
